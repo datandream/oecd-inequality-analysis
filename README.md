@@ -24,4 +24,3 @@ Fatma KESİK
 - **LinkedIn**: [Profil Linkiniz]
 
 ---
-*Bu proje, OECD staj başvurusu kapsamında hazırlanmıştır.*
